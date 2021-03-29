@@ -1,0 +1,17 @@
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\bin\Debug\netstandard2.0\ProyectoExample.deps.json
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\bin\Debug\netstandard2.0\ProyectoExample.dll
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\bin\Debug\netstandard2.0\ref\ProyectoExample.dll
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\bin\Debug\netstandard2.0\ProyectoExample.pdb
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\bin\Debug\netstandard2.0\DevExpress.XamarinForms.CollectionView.dll
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\bin\Debug\netstandard2.0\DevExpress.XamarinForms.Core.dll
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\obj\Debug\netstandard2.0\ProyectoExample.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\obj\Debug\netstandard2.0\ProyectoExample.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\obj\Debug\netstandard2.0\ProyectoExample.AssemblyInfo.cs
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\obj\Debug\netstandard2.0\ProyectoExample.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\obj\Debug\netstandard2.0\ProyectoExample.csproj.CopyComplete
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\obj\Debug\netstandard2.0\ProyectoExample.dll
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\obj\Debug\netstandard2.0\ref\ProyectoExample.dll
+C:\Users\rober\source\repos\ProyectoExample\ProyectoExample\ProyectoExample\obj\Debug\netstandard2.0\ProyectoExample.pdb

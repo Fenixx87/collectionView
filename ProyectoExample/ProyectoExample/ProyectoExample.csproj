@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Andrew_Fuller.jpg" />
+    <None Remove="Images\Anne_Dodsworth.jpg" />
+    <None Remove="Images\Janet_Leverling.jpg" />
+    <None Remove="Images\Laura_Callahan.jpg" />
+    <None Remove="Images\Margaret_Peacock.jpg" />
+    <None Remove="Images\Michael_Suyama.jpg" />
+    <None Remove="Images\Nancy_Davolio.jpg" />
+    <None Remove="Images\Robert_King.jpg" />
+    <None Remove="Images\Steven_Buchanan.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\Andrew_Fuller.jpg" />
+    <EmbeddedResource Include="Images\Anne_Dodsworth.jpg" />
+    <EmbeddedResource Include="Images\Janet_Leverling.jpg" />
+    <EmbeddedResource Include="Images\Laura_Callahan.jpg" />
+    <EmbeddedResource Include="Images\Margaret_Peacock.jpg" />
+    <EmbeddedResource Include="Images\Michael_Suyama.jpg" />
+    <EmbeddedResource Include="Images\Nancy_Davolio.jpg" />
+    <EmbeddedResource Include="Images\Robert_King.jpg" />
+    <EmbeddedResource Include="Images\Steven_Buchanan.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DevExpress.XamarinForms.CollectionView">
+      <HintPath>..\..\..\..\..\Dropbox\Mi PC (LAPTOP-PGDP0T8B)\Downloads\DevExpress.MobileUI.XamarinForms-20.2.5-20210121\DevExpress.Xamarin\Binaries\DevExpress.XamarinForms.CollectionView.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XamarinForms.Core">
+      <HintPath>..\..\..\..\..\Dropbox\Mi PC (LAPTOP-PGDP0T8B)\Downloads\DevExpress.MobileUI.XamarinForms-20.2.5-20210121\DevExpress.Xamarin\Binaries\DevExpress.XamarinForms.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
